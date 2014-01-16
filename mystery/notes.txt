@@ -1,0 +1,105 @@
+Someone was murdered. Who did it?
+
+-----------------------
+
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+
+CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+
+CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+
+-----------------------
+
+We know (or at least, we think we know):
+- male
+- about 6' tall
+- member of:
+	- AAA
+	- Delta SkyMiles
+	- Terminal City Library
+	- Museum of Bash History
+- Annabel (with blond spiky hair and a New Zealand accent) may know more (find her interview)
+
+----------------------
+
+list of people who are members of all 4 of the clubs:
+
+"Deron Estanguet\n"=>4,
+"Stephanie Adlington\n"=>4,
+"Aldo Nicolas\n"=>4,
+"Sonata Raif\n"=>4,
+*** "Jeremy Bowers\n"=>4, is male! a winner is you!
+"Didier Munoz\n"=>4,
+"Nikolaus Milatz\n"=>4,
+"Marina Murphy\n"=>4,
+"Krystian Pen\n"=>4,
+"Mary Tomashova\n"=>4,
+"Kelly Kulish\n"=>4,
+"Matt Waite\n"=>4,
+"Monika Hwang\n"=>4,
+"Emma Wei\n"=>4,
+"Liangliang Miller\n"=>4,
+*** "Jacqui Maher\n"=>4, is female
+"Jamila Rodhe\n"=>4,
+"Andrei Masna\n"=>4,
+"Tamara Cafaro\n"=>4,
+"Brian Boyer\n"=>4,
+"Dalibor Vidal\n"=>4,
+"Mike Bostock\n"=>4,
+"Augustin Lozano\n"=>4
+
+---------------------
+
+list of people named Annabel:
+
+Annabel Sun	F	26	Hart Place, line 40
+Oluwasegun Annabel	M	37	Mattapan Street, line 173
+*** Annabel Church	F	38	Buckingham Place, line 179
+Annabel Fuglsang	M	40	Haley Street, line 176
+
+so now i need to interview them...
+
+---------------------
+
+To go to the street someone lives on, use the file for that street name in the 'streets' subdirectory.
+To knock on their door and investigate, read the line number they live on from the file.
+If a line looks like gibberish, you're at the wrong house.
+
+---------------------
+
+Hart_Place:SEE INTERVIEW #47246024 - nope
+Mattapan_Street:SEE INTERVIEW #9437737 - nope
+Buckingham_Place:SEE INTERVIEW #699607
+Haley_Street:SEE INTERVIEW #871877 - nope
+
+---------------------
+
+Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
+
+However, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"
+
+---------------------
+
+blue
+Honda
+L337...9
+
+---------------------
+
+License Plate L337ZR9
+License Plate L337P89
+License Plate L337GX9
+License Plate L337QE9
+License Plate L337GB9
+License Plate L337OI9
+License Plate L337X19
+License Plate L337539
+License Plate L3373U9
+License Plate L337369
+License Plate L337DV9
+License Plate L3375A9
+License Plate L337WR9
+
+---------------------
+
+
